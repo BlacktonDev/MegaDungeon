@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub Projects/Taller2P1/MegaDungeon/Content/UI-Ale/Interfaz_WBP.uasset",
+				"D:/GitHub Projects/Taller2P1/MegaDungeon/Content/TopDown/Maps/TopDownMap.umap",
+				"D:/GitHub Projects/Taller2P1/MegaDungeon/Content/UI-Ale/Timer_WBP.uasset",
+				"D:/GitHub Projects/Taller2P1/MegaDungeon/Content/UI-Ale/HUD_WBP.uasset",
+				"D:/GitHub Projects/Taller2P1/MegaDungeon/Content/UI-Ale/Collectiblles_WBP.uasset"
+			]
+		}
+	]
+}
