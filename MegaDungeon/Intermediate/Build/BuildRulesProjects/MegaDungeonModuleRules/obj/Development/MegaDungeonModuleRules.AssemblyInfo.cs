@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MegaDungeonModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47ab18ec9807f77deaaee3b31bc653c1f95b7823")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0696e2cb49a3ba138c745aad63a9874242c80e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MegaDungeonModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MegaDungeonModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

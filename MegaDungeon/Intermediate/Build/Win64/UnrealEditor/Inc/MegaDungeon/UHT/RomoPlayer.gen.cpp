@@ -10,6 +10,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeRomoPlayer() {}
 // Cross Module References
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
+	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 	MEGADUNGEON_API UClass* Z_Construct_UClass_ARomoPlayer();
 	MEGADUNGEON_API UClass* Z_Construct_UClass_ARomoPlayer_NoRegister();
 	UPackage* Z_Construct_UPackage__Script_MegaDungeon();
@@ -28,6 +29,11 @@ void EmptyLinkFunctionForGeneratedCodeRomoPlayer() {}
 #if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_Camera_MetaData[];
+#endif
+		static const UECodeGen_Private::FObjectPropertyParams NewProp_Camera;
+		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
 	};
@@ -43,6 +49,17 @@ void EmptyLinkFunctionForGeneratedCodeRomoPlayer() {}
 		{ "ModuleRelativePath", "Public/RomoPlayer.h" },
 	};
 #endif
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ARomoPlayer_Statics::NewProp_Camera_MetaData[] = {
+		{ "Category", "RomoPlayer" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "Public/RomoPlayer.h" },
+	};
+#endif
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ARomoPlayer_Statics::NewProp_Camera = { "Camera", nullptr, (EPropertyFlags)0x0020080000080009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ARomoPlayer, Camera), Z_Construct_UClass_UCameraComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ARomoPlayer_Statics::NewProp_Camera_MetaData), Z_Construct_UClass_ARomoPlayer_Statics::NewProp_Camera_MetaData) };
+	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ARomoPlayer_Statics::PropPointers[] = {
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ARomoPlayer_Statics::NewProp_Camera,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ARomoPlayer_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ARomoPlayer>::IsAbstract,
 	};
@@ -52,15 +69,16 @@ void EmptyLinkFunctionForGeneratedCodeRomoPlayer() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
-		nullptr,
+		Z_Construct_UClass_ARomoPlayer_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
 		0,
-		0,
+		UE_ARRAY_COUNT(Z_Construct_UClass_ARomoPlayer_Statics::PropPointers),
 		0,
 		0x009000A4u,
 		METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ARomoPlayer_Statics::Class_MetaDataParams), Z_Construct_UClass_ARomoPlayer_Statics::Class_MetaDataParams)
 	};
+	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ARomoPlayer_Statics::PropPointers) < 2048);
 	UClass* Z_Construct_UClass_ARomoPlayer()
 	{
 		if (!Z_Registration_Info_UClass_ARomoPlayer.OuterSingleton)
@@ -80,9 +98,9 @@ void EmptyLinkFunctionForGeneratedCodeRomoPlayer() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_black_Documents_UNIAT_6_Semestre_TallerVideojuegosII_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_ARomoPlayer, ARomoPlayer::StaticClass, TEXT("ARomoPlayer"), &Z_Registration_Info_UClass_ARomoPlayer, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ARomoPlayer), 3118783485U) },
+		{ Z_Construct_UClass_ARomoPlayer, ARomoPlayer::StaticClass, TEXT("ARomoPlayer"), &Z_Registration_Info_UClass_ARomoPlayer, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ARomoPlayer), 618910071U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_black_Documents_UNIAT_6_Semestre_TallerVideojuegosII_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_447770667(TEXT("/Script/MegaDungeon"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_black_Documents_UNIAT_6_Semestre_TallerVideojuegosII_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_4143409737(TEXT("/Script/MegaDungeon"),
 		Z_CompiledInDeferFile_FID_Users_black_Documents_UNIAT_6_Semestre_TallerVideojuegosII_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_black_Documents_UNIAT_6_Semestre_TallerVideojuegosII_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
