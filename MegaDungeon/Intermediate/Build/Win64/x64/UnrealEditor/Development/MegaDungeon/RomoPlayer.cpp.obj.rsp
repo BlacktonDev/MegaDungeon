@@ -1,11 +1,11 @@
-"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Source\MegaDungeon\Private\RomoPlayer.cpp"
-/FI"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\Definitions.MegaDungeon.h"
-/Yu"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\RomoPlayer.cpp.obj"
-/sourceDependencies "C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\RomoPlayer.cpp.dep.json"
-@"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.Shared.rsp"
+"C:\Users\Jocy\Desktop\Taller2P1\MegaDungeon\Source\MegaDungeon\Private\RomoPlayer.cpp"
+/FI"C:\Users\Jocy\Desktop\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"C:\Users\Jocy\Desktop\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\Definitions.MegaDungeon.h"
+/Yu"C:\Users\Jocy\Desktop\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"C:\Users\Jocy\Desktop\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\Jocy\Desktop\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\RomoPlayer.cpp.obj"
+/sourceDependencies "C:\Users\Jocy\Desktop\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\RomoPlayer.cpp.dep.json"
+@"C:\Users\Jocy\Desktop\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
