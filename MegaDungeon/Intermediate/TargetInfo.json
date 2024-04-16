@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MegaDungeon",
+			"Path": "..\\Source\\MegaDungeon.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MegaDungeonEditor",
+			"Path": "..\\Source\\MegaDungeonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

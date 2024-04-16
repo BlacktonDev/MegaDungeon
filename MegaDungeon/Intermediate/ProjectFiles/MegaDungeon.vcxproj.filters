@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MegaDungeon.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MegaDungeon.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MegaDungeonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MegaDungeon">
+      <UniqueIdentifier>{4A35CB1B-2486-377F-903E-090CEC5BDFC2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MegaDungeon\MegaDungeon.Build.cs">
+      <Filter>Source\MegaDungeon</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MegaDungeon\MegaDungeon.cpp">
+      <Filter>Source\MegaDungeon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MegaDungeon\MegaDungeon.h">
+      <Filter>Source\MegaDungeon</Filter>
+    </ClInclude>
+    <Filter Include="Source\MegaDungeon\Private">
+      <UniqueIdentifier>{43F26ACF-381B-34E2-8DED-CB10E5543CC5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MegaDungeon\Private\RomoPlayer.cpp">
+      <Filter>Source\MegaDungeon\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MegaDungeon\Public">
+      <UniqueIdentifier>{9E8D9BF9-E512-31B1-B0D1-CB35630E1255}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MegaDungeon\Public\RomoPlayer.h">
+      <Filter>Source\MegaDungeon\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
