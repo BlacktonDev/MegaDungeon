@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\black\\documents\\uniat\\6_semestre\\tallervideojuegosii\\taller2p1\\megadungeon\\intermediate\\build\\win64\\unrealeditor\\inc\\megadungeon\\uht\\megadungeon.init.gen.cpp",
+        "Source": "d:\\6tosemestre\\4_taller_vj_ii\\p1\\taller2p1\\megadungeon\\intermediate\\build\\win64\\unrealeditor\\inc\\megadungeon\\uht\\megadungeon.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\black\\documents\\uniat\\6_semestre\\tallervideojuegosii\\taller2p1\\megadungeon\\intermediate\\build\\win64\\x64\\megadungeoneditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "PCH": "d:\\6tosemestre\\4_taller_vj_ii\\p1\\taller2p1\\megadungeon\\intermediate\\build\\win64\\x64\\megadungeoneditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
         "Includes": [
-            "c:\\users\\black\\documents\\uniat\\6_semestre\\tallervideojuegosii\\taller2p1\\megadungeon\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\megadungeon\\definitions.megadungeon.h"
+            "d:\\6tosemestre\\4_taller_vj_ii\\p1\\taller2p1\\megadungeon\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\megadungeon\\definitions.megadungeon.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
