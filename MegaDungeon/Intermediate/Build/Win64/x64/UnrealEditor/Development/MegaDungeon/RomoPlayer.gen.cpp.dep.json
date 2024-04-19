@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\6tosemestre\\4_taller_vj_ii\\p1\\taller2p1\\megadungeon\\intermediate\\build\\win64\\unrealeditor\\inc\\megadungeon\\uht\\romoplayer.gen.cpp",
+        "Source": "c:\\users\\alumnos\\documents\\github\\taller2p1\\megadungeon\\intermediate\\build\\win64\\unrealeditor\\inc\\megadungeon\\uht\\romoplayer.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\6tosemestre\\4_taller_vj_ii\\p1\\taller2p1\\megadungeon\\intermediate\\build\\win64\\x64\\megadungeoneditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\alumnos\\documents\\github\\taller2p1\\megadungeon\\intermediate\\build\\win64\\x64\\megadungeoneditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
         "Includes": [
-            "d:\\6tosemestre\\4_taller_vj_ii\\p1\\taller2p1\\megadungeon\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\megadungeon\\definitions.megadungeon.h",
-            "d:\\6tosemestre\\4_taller_vj_ii\\p1\\taller2p1\\megadungeon\\source\\megadungeon\\public\\romoplayer.h",
+            "c:\\users\\alumnos\\documents\\github\\taller2p1\\megadungeon\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\megadungeon\\definitions.megadungeon.h",
+            "c:\\users\\alumnos\\documents\\github\\taller2p1\\megadungeon\\source\\megadungeon\\public\\romoplayer.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
@@ -15,7 +15,7 @@
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
-            "d:\\6tosemestre\\4_taller_vj_ii\\p1\\taller2p1\\megadungeon\\intermediate\\build\\win64\\unrealeditor\\inc\\megadungeon\\uht\\romoplayer.generated.h"
+            "c:\\users\\alumnos\\documents\\github\\taller2p1\\megadungeon\\intermediate\\build\\win64\\unrealeditor\\inc\\megadungeon\\uht\\romoplayer.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
