@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeMegaDungeon_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xEA7ABA66,
+				0x06262A1F,
 				0xE3F20798,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeMegaDungeon_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_MegaDungeon.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MegaDungeon(Z_Construct_UPackage__Script_MegaDungeon, TEXT("/Script/MegaDungeon"), Z_Registration_Info_UPackage__Script_MegaDungeon, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xEA7ABA66, 0xE3F20798));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MegaDungeon(Z_Construct_UPackage__Script_MegaDungeon, TEXT("/Script/MegaDungeon"), Z_Registration_Info_UPackage__Script_MegaDungeon, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x06262A1F, 0xE3F20798));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

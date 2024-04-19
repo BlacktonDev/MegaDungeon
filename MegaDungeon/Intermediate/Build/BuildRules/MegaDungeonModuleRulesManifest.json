@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Alumnos\\Documents\\GitHub\\Taller2P1\\MegaDungeon\\Source\\MegaDungeon\\MegaDungeon.Build.cs",
-		"C:\\Users\\Alumnos\\Documents\\GitHub\\Taller2P1\\MegaDungeon\\Source\\MegaDungeon.Target.cs",
-		"C:\\Users\\Alumnos\\Documents\\GitHub\\Taller2P1\\MegaDungeon\\Source\\MegaDungeonEditor.Target.cs"
+		"F:\\DuckOddysey\\Taller2P1\\MegaDungeon\\Source\\MegaDungeon\\MegaDungeon.Build.cs",
+		"F:\\DuckOddysey\\Taller2P1\\MegaDungeon\\Source\\MegaDungeon.Target.cs",
+		"F:\\DuckOddysey\\Taller2P1\\MegaDungeon\\Source\\MegaDungeonEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

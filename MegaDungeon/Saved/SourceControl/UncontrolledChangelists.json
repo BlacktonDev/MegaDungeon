@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/DuckOddysey/Taller2P1/MegaDungeon/Content/Levels/LVL3.umap",
+				"F:/DuckOddysey/Taller2P1/MegaDungeon/Content/ARTE/Assets/FBX/Puerta_Puerta_BaseColor_Mat.uasset",
+				"F:/DuckOddysey/Taller2P1/MegaDungeon/Content/ARTE/Assets/MATERIALS/Huesito_Hueso_BaseColor_Mat.uasset",
+				"F:/DuckOddysey/Taller2P1/MegaDungeon/Content/ARTE/Assets/MATERIALS/Diamante_diamante_BaseColor_Mat.uasset",
+				"F:/DuckOddysey/Taller2P1/MegaDungeon/Content/ARTE/Assets/MATERIALS/FlechaCorregido_Flecha_BaseColor_Mat.uasset",
 				"C:/Users/Alumnos/Documents/GitHub/Taller2P1/MegaDungeon/Content/Levels/LVL2.umap",
 				"C:/Users/Alumnos/Documents/GitHub/Taller2P1/MegaDungeon/Content/ARTE/Assets/Puerta.uasset"
 			]
