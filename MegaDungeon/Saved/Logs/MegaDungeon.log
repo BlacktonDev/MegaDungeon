@@ -2091,3 +2091,89 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.19-15.24.33:621][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
 [2024.04.19-15.24.33:672][109]LogPlayLevel: Display: Destroying online subsystem :Context_19
 [2024.04.19-15.24.39:520][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.19-15.25.32:479][345]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-15.25.32:484][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-15.25.32:484][345]PIE: New page: PIE session: NivelTuto5 (Apr 19, 2024, 4:25:32 AM)
+[2024.04.19-15.25.32:484][345]LogPlayLevel: Creating play world package: /Game/_Romo/Maps/UEDPIE_0_NivelTuto5
+[2024.04.19-15.25.32:493][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008740s)
+[2024.04.19-15.25.32:493][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Romo/Maps/NivelTuto5.NivelTuto5 to /Game/_Romo/Maps/UEDPIE_0_NivelTuto5.NivelTuto5 (0.008778s)
+[2024.04.19-15.25.32:511][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.04.19-15.25.32:513][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-15.25.32:513][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-15.25.32:513][345]LogAIModule: Creating AISystem for world NivelTuto5
+[2024.04.19-15.25.32:513][345]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2024.04.19-15.25.32:513][345]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.19-15.25.32:513][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-15.25.32:513][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-15.25.32:513][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-15.25.32:513][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-15.25.32:513][345]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-15.25.32:513][345]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-15.25.32:513][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-15.25.32:514][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-15.25.32:514][345]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-15.25.32:514][345]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-15.25.32:514][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-15.25.32:516][345]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-15.25.32:540][345]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (THX Spatial)
+[2024.04.19-15.25.32:540][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-15.25.32:540][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-15.25.32:540][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-15.25.32:541][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.19-15.25.32:541][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=10
+[2024.04.19-15.25.32:542][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.19-15.25.32:544][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.19-15.25.32:544][345]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.19-15.25.32:544][345]LogAudio: Display: Audio Device (ID: 10) registered with world 'NivelTuto5'.
+[2024.04.19-15.25.32:544][345]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.19-15.25.32:546][345]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.19-15.25.32:552][345]LogWorld: Bringing World /Game/_Romo/Maps/UEDPIE_0_NivelTuto5.NivelTuto5 up for play (max tick rate 0) at 2024.04.19-09.25.32
+[2024.04.19-15.25.32:552][345]LogWorld: Bringing up level for play took: 0.005842
+[2024.04.19-15.25.32:554][345]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.04.19-15.25.32:560][345]PIE: Server logged in
+[2024.04.19-15.25.32:561][345]PIE: Play in editor total start time 0.076 seconds.
+[2024.04.19-15.25.42:986][495]LogBlueprintUserMessages: [BP_Key_C_1] Recogido llave
+[2024.04.19-15.25.44:484][663]LogBlueprintUserMessages: [BP_MDCharacter_C_0] camino bloqueado
+[2024.04.19-15.25.46:488][895]LogBlueprintUserMessages: [BP_MDCharacter_C_0] camino bloqueado
+[2024.04.19-15.25.49:491][229]LogBlueprintUserMessages: [BP_MDCharacter_C_0] camino bloqueado
+[2024.04.19-15.25.52:501][545]LogBlueprintUserMessages: [BP_MDCharacter_C_0] camino bloqueado
+[2024.04.19-15.25.53:534][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-15.25.53:534][628]LogWorld: BeginTearingDown for /Game/_Romo/Maps/UEDPIE_0_NivelTuto5
+[2024.04.19-15.25.53:534][628]LogWorld: UWorld::CleanupWorld for NivelTuto5, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-15.25.53:535][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-15.25.53:537][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-15.25.53:541][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-15.25.53:557][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-15.25.53:558][628]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.19-15.25.53:558][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.19-15.25.53:559][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.19-15.25.53:569][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.19-15.25.53:635][629]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.04.19-15.25.55:539][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-15.25.55:636][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.19-15.25.55:664][808]LogSavePackage: Moving output files for package: /Game/_Romo/Maps/NivelTuto5
+[2024.04.19-15.25.55:665][808]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/NivelTuto57457683E45883BA4ED8749AAFDC89458.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Maps/NivelTuto5.umap'
+[2024.04.19-15.25.55:671][808]LogFileHelpers: Saving map 'NivelTuto5' took 0.070
+[2024.04.19-15.25.55:679][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 1.12 sec)
+[2024.04.19-15.25.55:681][808]AssetCheck: New page: Asset Save: NivelTuto5
+[2024.04.19-15.25.55:681][808]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Romo/Maps/NivelTuto5.NivelTuto5
+[2024.04.19-15.27.59:721][890]BlueprintLog: New page: Compile WB_Arrows
+[2024.04.19-15.27.59:750][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.19-15.28.00:348][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-15.28.00:404][915]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-15.28.00:404][915]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows157C372041EE76B73C9963841291B4A6.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-15.28.00:415][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.19 sec)
+[2024.04.19-15.28.00:417][915]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-15.28.00:417][915]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-15.28.02:833][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.19-15.28.03:806][108]LogSlate: Window 'BP_TopDownCharacter' being destroyed
+[2024.04.19-15.28.03:814][108]LogSlate: Window 'BP_TopDownCharacter' being destroyed
+[2024.04.19-15.28.03:818][108]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-15.28.03:818][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-15.28.03:875][108]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-15.28.03:875][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-15.28.03:881][108]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-15.28.03:881][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-15.28.03:910][108]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.19-15.28.03:910][108]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-15.28.03:910][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
