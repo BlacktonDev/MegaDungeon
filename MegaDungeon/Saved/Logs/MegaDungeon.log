@@ -5397,3 +5397,1113 @@ Script Stack (0 frames) :
 [2024.04.19-04.35.32:202][870]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/_Romo/Character/Arrows/Right.Right
 [2024.04.19-04.35.32:202][870]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/_Romo/Character/Arrows/Left.Left
 [2024.04.19-04.35.32:202][870]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/_Romo/Character/Arrows/Down.Down
+[2024.04.19-04.36.56:129][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.19-04.36.56:134][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.36.56:199][734]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.36.56:200][734]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_ArrowsE99F72C1421A31FD73D2B29086357C44.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.36.56:209][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 16.7 sec)
+[2024.04.19-04.36.56:211][734]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.36.56:211][734]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.36.56:502][754]BlueprintLog: New page: Compile WB_Arrows
+[2024.04.19-04.36.56:551][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.19-04.39.12:196][ 85]BlueprintLog: New page: Compile WB_Arrows
+[2024.04.19-04.39.12:264][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.19-04.39.13:123][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.39.13:185][118]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.39.13:186][118]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows4EA5353C4A82AD678A55F5B82ECEDFCA.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.39.13:195][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 16.8 sec)
+[2024.04.19-04.39.13:197][118]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.39.13:197][118]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.39.15:209][221]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-04.39.15:217][221]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.19-04.39.15:220][221]LogPlayLevel: [PlayLevel] Compiling BP_MDCharacter before play...
+[2024.04.19-04.39.15:413][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.19-04.39.15:419][221]LogPlayLevel: PlayLevel: Blueprint regeneration took 201 ms (1 blueprints)
+[2024.04.19-04.39.15:419][221]PIE: New page: PIE session: NivelTuto1 (Apr 18, 2024, 5:39:15 PM)
+[2024.04.19-04.39.15:444][221]LogPlayLevel: Creating play world package: /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-04.39.15:451][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006491s)
+[2024.04.19-04.39.15:451][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Romo/Maps/NivelTuto1.NivelTuto1 to /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 (0.006541s)
+[2024.04.19-04.39.15:471][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.19-04.39.15:472][221]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-04.39.15:472][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-04.39.15:473][221]LogAIModule: Creating AISystem for world NivelTuto1
+[2024.04.19-04.39.15:473][221]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2024.04.19-04.39.15:473][221]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2024.04.19-04.39.15:473][221]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-04.39.15:473][221]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-04.39.15:473][221]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-04.39.15:473][221]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-04.39.15:473][221]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-04.39.15:473][221]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-04.39.15:473][221]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-04.39.15:473][221]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-04.39.15:474][221]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-04.39.15:474][221]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-04.39.15:474][221]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-04.39.15:476][221]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-04.39.15:502][221]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (THX Spatial)
+[2024.04.19-04.39.15:504][221]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-04.39.15:504][221]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-04.39.15:504][221]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-04.39.15:504][221]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2024.04.19-04.39.15:504][221]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=51
+[2024.04.19-04.39.15:505][221]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2024.04.19-04.39.15:506][221]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2024.04.19-04.39.15:506][221]LogInit: FAudioDevice initialized with ID 51.
+[2024.04.19-04.39.15:506][221]LogAudio: Display: Audio Device (ID: 51) registered with world 'NivelTuto1'.
+[2024.04.19-04.39.15:506][221]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.19-04.39.15:509][221]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.19-04.39.15:515][221]LogWorld: Bringing World /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 up for play (max tick rate 0) at 2024.04.18-22.39.15
+[2024.04.19-04.39.15:516][221]LogWorld: Bringing up level for play took: 0.005393
+[2024.04.19-04.39.15:518][221]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.04.19-04.39.15:521][221]PIE: Server logged in
+[2024.04.19-04.39.15:523][221]PIE: Play in editor total start time 0.306 seconds.
+[2024.04.19-04.39.37:296][635]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.19-04.39.38:343][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.04.19-04.39.38:350][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.39.38:365][698]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.39.38:366][698]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows8E116D414A77A93A612521A188EEA2A7.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.39.38:367][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 17 ms (total: 16.8 sec)
+[2024.04.19-04.39.38:371][698]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.39.38:371][698]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.39.39:737][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-04.39.39:737][768]LogWorld: BeginTearingDown for /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-04.39.39:737][768]LogWorld: UWorld::CleanupWorld for NivelTuto1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-04.39.39:738][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-04.39.39:740][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-04.39.39:745][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-04.39.39:765][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-04.39.39:765][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.19-04.39.39:766][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.19-04.39.39:767][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.19-04.39.39:779][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.04.19-04.39.39:890][769]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.04.19-04.39.40:440][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.04.19-04.40.33:770][153]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2024.04.19-04.40.33:785][153]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2024.04.19-04.40.33:806][154]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2024.04.19-04.40.43:345][813]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_Arrows
+[2024.04.19-04.40.43:420][813]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2024.04.19-04.40.44:205][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.40.44:270][863]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.40.44:271][863]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_ArrowsC8F8485943EE7BA0EE78B98FA26DD1F7.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.40.44:274][863]LogSavePackage: Moving output files for package: /Game/_Romo/Character/S_Arrows
+[2024.04.19-04.40.44:274][863]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/S_Arrows030F10B04A7CC9F90AF472962B7E0A9C.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/S_Arrows.uasset'
+[2024.04.19-04.40.44:291][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 16.9 sec)
+[2024.04.19-04.40.44:293][863]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-04.40.44:293][863]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.40.44:294][863]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/_Romo/Character/S_Arrows.S_Arrows
+[2024.04.19-04.40.44:905][901]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/_Romo/Character/S_Arrows.S_Arrows
+[2024.04.19-04.40.58:370][270]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2024.04.19-04.41.08:405][ 58]LogDerivedDataCache: C:/Users/black/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.291 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4176 files in 5695 folders with total size 351 MiB.
+[2024.04.19-04.41.13:738][489]Cmd: TRANSACTION UNDO
+[2024.04.19-04.41.13:738][489]LogEditorTransaction: Undo Change Parameter Type
+[2024.04.19-04.41.14:712][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.19-04.41.14:719][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.41.14:771][533]LogSavePackage: Moving output files for package: /Game/_Romo/Character/S_Arrows
+[2024.04.19-04.41.14:771][533]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/S_Arrows6E3B9FB6449610E52288A0954A10B6B2.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/S_Arrows.uasset'
+[2024.04.19-04.41.14:785][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 17.0 sec)
+[2024.04.19-04.41.14:787][533]AssetCheck: New page: Asset Save: S_Arrows
+[2024.04.19-04.41.14:787][533]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/_Romo/Character/S_Arrows.S_Arrows
+[2024.04.19-04.41.15:462][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.41.15:519][581]LogSavePackage: Moving output files for package: /Game/_Romo/Character/S_Arrows
+[2024.04.19-04.41.15:520][581]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/S_Arrows10FDFA264867213B9D3817952DF1CCC4.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/S_Arrows.uasset'
+[2024.04.19-04.41.15:532][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 17.0 sec)
+[2024.04.19-04.41.15:533][581]AssetCheck: New page: Asset Save: S_Arrows
+[2024.04.19-04.41.15:534][581]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/_Romo/Character/S_Arrows.S_Arrows
+[2024.04.19-04.41.49:161][252]LogSlate: Window 'Pick Row Structure' being destroyed
+[2024.04.19-04.41.49:166][252]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2024.04.19-04.41.49:177][252]LogContentBrowser: Creating deferred item: NewDataTable
+[2024.04.19-04.41.49:203][253]LogContentBrowser: Renaming the item being created (Deferred Item: NewDataTable).
+[2024.04.19-04.41.56:498][806]LogContentBrowser: Attempting asset rename: NewDataTable -> DT_Arrows
+[2024.04.19-04.41.56:505][806]LogContentBrowser: End creating deferred item NewDataTable
+[2024.04.19-04.41.57:367][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.41.57:418][871]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-04.41.57:418][871]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_ArrowsC442E8454E03C758D7B23B9425DFCAB7.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-04.41.57:428][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 17.1 sec)
+[2024.04.19-04.41.57:429][871]AssetCheck: New page: Asset Save: DT_Arrows
+[2024.04.19-04.41.57:429][871]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.41.57:924][907]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.42.12:948][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.19-04.42.12:955][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.42.12:995][111]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-04.42.12:996][111]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_Arrows5EF6A321488FCC44AA924CAD4E46B134.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-04.42.13:006][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 17.1 sec)
+[2024.04.19-04.42.13:008][111]AssetCheck: New page: Asset Save: DT_Arrows
+[2024.04.19-04.42.13:008][111]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.42.29:056][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.19-04.42.29:061][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.42.29:118][512]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-04.42.29:119][512]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_ArrowsB79B106B44CF74AFF0A131B50D0E17CC.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-04.42.29:129][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 17.2 sec)
+[2024.04.19-04.42.29:130][512]AssetCheck: New page: Asset Save: DT_Arrows
+[2024.04.19-04.42.29:130][512]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.42.30:282][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.42.30:330][604]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-04.42.30:331][604]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_ArrowsEAA2C9F342046FBA61797CB962CB4D5A.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-04.42.30:341][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 17.3 sec)
+[2024.04.19-04.42.30:342][604]AssetCheck: New page: Asset Save: DT_Arrows
+[2024.04.19-04.42.30:342][604]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.43.04:602][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.19-04.43.04:608][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.43.04:645][421]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-04.43.04:645][421]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_Arrows543130624C9949626039ADB8AD5F4252.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-04.43.04:656][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 17.3 sec)
+[2024.04.19-04.43.04:657][421]AssetCheck: New page: Asset Save: DT_Arrows
+[2024.04.19-04.43.04:657][421]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.43.23:828][793]BlueprintLog: New page: Compile WB_Arrows
+[2024.04.19-04.43.23:887][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.19-04.43.35:649][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.04.19-04.43.35:656][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.43.35:819][490]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-04.43.35:820][490]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacter9DCF361C4C67543A8C2B4BBF560F007C.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-04.43.35:831][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 17.5 sec)
+[2024.04.19-04.43.35:832][490]AssetCheck: New page: Asset Save: BP_MDCharacter
+[2024.04.19-04.43.35:832][490]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-04.44.30:301][640]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.19-04.44.36:999][984]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.19-04.44.40:114][128]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.19-04.44.44:022][311]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.19-04.44.44:737][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.19-04.44.44:743][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.44.44:800][345]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.44.44:801][345]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows15F1C6BF45122028421F21B80BF1080F.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.44.44:809][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 17.6 sec)
+[2024.04.19-04.44.44:810][345]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.44.44:810][345]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.44.46:678][439]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-04.44.46:685][439]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.19-04.44.46:695][439]LogPlayLevel: [PlayLevel] Compiling WB_Arrows before play...
+[2024.04.19-04.44.46:986][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.04.19-04.44.46:991][439]LogPlayLevel: PlayLevel: Blueprint regeneration took 307 ms (1 blueprints)
+[2024.04.19-04.44.46:991][439]PIE: New page: PIE session: NivelTuto1 (Apr 18, 2024, 5:44:46 PM)
+[2024.04.19-04.44.46:991][439]LogPlayLevel: Creating play world package: /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-04.44.47:000][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007258s)
+[2024.04.19-04.44.47:000][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Romo/Maps/NivelTuto1.NivelTuto1 to /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 (0.007301s)
+[2024.04.19-04.44.47:018][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.19-04.44.47:020][439]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-04.44.47:020][439]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-04.44.47:021][439]LogAIModule: Creating AISystem for world NivelTuto1
+[2024.04.19-04.44.47:021][439]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2024.04.19-04.44.47:021][439]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.04.19-04.44.47:021][439]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-04.44.47:021][439]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-04.44.47:021][439]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-04.44.47:021][439]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-04.44.47:021][439]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-04.44.47:021][439]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-04.44.47:021][439]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-04.44.47:021][439]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-04.44.47:022][439]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-04.44.47:022][439]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-04.44.47:022][439]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-04.44.47:024][439]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-04.44.47:050][439]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (THX Spatial)
+[2024.04.19-04.44.47:050][439]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-04.44.47:050][439]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-04.44.47:050][439]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-04.44.47:050][439]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.04.19-04.44.47:050][439]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=52
+[2024.04.19-04.44.47:053][439]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.04.19-04.44.47:053][439]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.04.19-04.44.47:053][439]LogInit: FAudioDevice initialized with ID 52.
+[2024.04.19-04.44.47:053][439]LogAudio: Display: Audio Device (ID: 52) registered with world 'NivelTuto1'.
+[2024.04.19-04.44.47:053][439]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.19-04.44.47:056][439]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.19-04.44.47:061][439]LogWorld: Bringing World /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 up for play (max tick rate 0) at 2024.04.18-22.44.47
+[2024.04.19-04.44.47:061][439]LogWorld: Bringing up level for play took: 0.005058
+[2024.04.19-04.44.47:063][439]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.04.19-04.44.47:067][439]PIE: Server logged in
+[2024.04.19-04.44.47:069][439]PIE: Play in editor total start time 0.385 seconds.
+[2024.04.19-04.44.51:316][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-04.44.51:316][721]LogWorld: BeginTearingDown for /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-04.44.51:316][721]LogWorld: UWorld::CleanupWorld for NivelTuto1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-04.44.51:316][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-04.44.51:319][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-04.44.51:325][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-04.44.51:345][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-04.44.51:346][721]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.19-04.44.51:346][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.19-04.44.51:349][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.19-04.44.51:360][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.04.19-04.44.51:485][722]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.04.19-04.44.59:542][139]LogEditorViewport: Clicking Background
+[2024.04.19-04.45.15:134][278]LogSlate: Took 0.010579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.19-04.46.32:282][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.04.19-04.46.32:288][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.46.32:355][865]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.46.32:356][865]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows96A6EA9B406BE8D985062CBF2CE595C0.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.46.32:367][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 17.6 sec)
+[2024.04.19-04.46.32:368][865]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.46.32:368][865]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.46.32:891][897]BlueprintLog: New page: Compile WB_Arrows
+[2024.04.19-04.46.32:942][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.19-04.46.42:125][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.19-04.47.50:606][526]LogSlate: Window 'Delete Variable' being destroyed
+[2024.04.19-04.48.13:519][216]LogEditorTransaction: Undo Remove Variable
+[2024.04.19-04.48.13:736][218]LogEditorTransaction: Undo Remove Variable
+[2024.04.19-04.48.13:898][219]LogEditorTransaction: Undo Remove Variable
+[2024.04.19-04.48.16:561][403]LogEditorTransaction: Redo Remove Variable
+[2024.04.19-04.48.16:790][411]LogEditorTransaction: Redo Remove Variable
+[2024.04.19-04.48.16:989][416]LogEditorTransaction: Redo Remove Variable
+[2024.04.19-04.48.35:947][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.19-04.48.35:954][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.48.36:016][783]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.48.36:017][783]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_ArrowsB65025634CFB58DFB6AED592A40A1AAE.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.48.36:027][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 17.7 sec)
+[2024.04.19-04.48.36:028][783]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.48.36:028][783]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.48.36:850][844]BlueprintLog: New page: Compile WB_Arrows
+[2024.04.19-04.48.36:907][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.19-04.49.49:442][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.04.19-04.49.49:449][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.49.49:503][ 52]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.49.49:504][ 52]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows35A5ED42489656A6737DE8BE5CC93F00.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.49.49:515][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 17.8 sec)
+[2024.04.19-04.49.49:516][ 52]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.49.49:516][ 52]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.50.43:299][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.19-04.50.43:306][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.50.43:377][674]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.50.43:377][674]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows25C94F174F27AD05166478BCC65391CA.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.50.43:387][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 17.9 sec)
+[2024.04.19-04.50.43:390][674]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.50.43:390][674]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.51.19:532][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.19-04.51.19:540][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.51.19:599][708]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.51.19:600][708]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows3F0BDAEF458C8C979A1142912B738035.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.51.19:603][708]LogSavePackage: Moving output files for package: /Game/_Romo/Character/S_Arrows
+[2024.04.19-04.51.19:603][708]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/S_ArrowsAC1C81CB40A0590ED27E92BA588E8528.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/S_Arrows.uasset'
+[2024.04.19-04.51.19:605][708]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-04.51.19:606][708]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_Arrows4AA9B8C449D42898949491BA535136C1.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-04.51.19:617][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 17.9 sec)
+[2024.04.19-04.51.19:619][708]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-04.51.19:619][708]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.51.19:620][708]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/_Romo/Character/S_Arrows.S_Arrows
+[2024.04.19-04.51.19:620][708]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.51.20:219][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.51.20:275][753]LogSavePackage: Moving output files for package: /Game/_Romo/Character/S_Arrows
+[2024.04.19-04.51.20:276][753]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/S_ArrowsC639B05044E4121F1CCDBD99BDBD6B29.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/S_Arrows.uasset'
+[2024.04.19-04.51.20:286][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 18.0 sec)
+[2024.04.19-04.51.20:287][753]AssetCheck: New page: Asset Save: S_Arrows
+[2024.04.19-04.51.20:287][753]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/_Romo/Character/S_Arrows.S_Arrows
+[2024.04.19-04.51.45:793][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.19-04.51.49:215][142]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.19-04.51.59:800][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.19-04.51.59:805][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.51.59:871][687]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.51.59:872][687]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows50EB470949E0B63620298EB5A14BC2E0.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.51.59:881][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 18.1 sec)
+[2024.04.19-04.51.59:883][687]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.51.59:883][687]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.52.05:409][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.04.19-04.52.06:722][ 95]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.19-04.52.06:838][ 95]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_Romo/Character/DT_Arrows.DT_Arrows
+	Asset Type: DataTable
+[2024.04.19-04.52.07:217][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.04.19-04.52.07:239][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.19-04.52.07:260][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.19-04.52.10:256][314]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.DataChannel'.'
+[2024.04.19-04.52.14:092][553]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.04.19-04.52.20:424][553]LogSlate: Window 'Pick Row Structure' being destroyed
+[2024.04.19-04.52.20:430][553]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2024.04.19-04.52.20:446][553]LogContentBrowser: Creating deferred item: NewDataTable
+[2024.04.19-04.52.20:464][554]LogContentBrowser: Renaming the item being created (Deferred Item: NewDataTable).
+[2024.04.19-04.52.24:826][882]LogContentBrowser: Attempting asset rename: NewDataTable -> DT_Arrows
+[2024.04.19-04.52.24:827][882]LogContentBrowser: End creating deferred item NewDataTable
+[2024.04.19-04.52.25:345][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.52.25:409][919]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.52.25:410][919]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows4182DCAD4AF709DF6F730DA7D2112D2D.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.52.25:412][919]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-04.52.25:412][919]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_Arrows6F3249BE45D3F78600C9A6888106069A.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-04.52.25:422][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 18.1 sec)
+[2024.04.19-04.52.25:425][919]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-04.52.25:425][919]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.52.25:426][919]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.52.36:175][769]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.52.54:974][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.19-04.52.54:980][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.52.55:027][341]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-04.52.55:027][341]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_ArrowsF58B432C41149661B0DE9C8F33258F35.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-04.52.55:040][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 18.2 sec)
+[2024.04.19-04.52.55:043][341]AssetCheck: New page: Asset Save: DT_Arrows
+[2024.04.19-04.52.55:043][341]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.53.05:453][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.19-04.53.05:460][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.53.05:512][221]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-04.53.05:512][221]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_Arrows2458F9EE431B73D9BFBE2CACD564ABDE.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-04.53.05:526][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 18.3 sec)
+[2024.04.19-04.53.05:528][221]AssetCheck: New page: Asset Save: DT_Arrows
+[2024.04.19-04.53.05:528][221]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.53.15:325][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.19-04.53.15:334][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.53.15:389][181]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-04.53.15:389][181]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_ArrowsD324031F43BA8FC9E18A7CBE825F469D.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-04.53.15:402][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 18.3 sec)
+[2024.04.19-04.53.15:403][181]AssetCheck: New page: Asset Save: DT_Arrows
+[2024.04.19-04.53.15:403][181]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.53.21:801][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.19-04.53.21:806][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.53.21:857][751]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-04.53.21:858][751]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_Arrows6A2159B24BB3E7293F6E119F19CD385E.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-04.53.21:868][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 18.4 sec)
+[2024.04.19-04.53.21:869][751]AssetCheck: New page: Asset Save: DT_Arrows
+[2024.04.19-04.53.21:869][751]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.53.24:941][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.19-04.53.24:949][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.53.25:006][990]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-04.53.25:006][990]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_Arrows429F571D4E9401CEC30A0886F58A33FD.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-04.53.25:017][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 18.5 sec)
+[2024.04.19-04.53.25:018][990]AssetCheck: New page: Asset Save: DT_Arrows
+[2024.04.19-04.53.25:018][990]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-04.53.48:122][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.19-04.53.48:129][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.53.48:198][969]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.53.48:198][969]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows0274189B4743E4EFE948EAA5FEC718E2.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.53.48:208][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 18.6 sec)
+[2024.04.19-04.53.48:209][969]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.53.48:209][969]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.53.59:769][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.19-04.53.59:775][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.53.59:839][960]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.53.59:840][960]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows9AC9129F4E59E02F9C3DAF9F68C1B001.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.53.59:853][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 18.6 sec)
+[2024.04.19-04.53.59:854][960]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.53.59:854][960]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.54.25:856][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.04.19-04.54.25:863][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.54.25:927][162]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.54.25:927][162]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows13CE24A44886746BA279C9BF6A8A1C23.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.54.25:937][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 18.7 sec)
+[2024.04.19-04.54.25:939][162]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.54.25:939][162]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.55.08:641][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.04.19-04.55.08:648][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.55.08:708][849]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.55.08:708][849]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_ArrowsE57913D347159246AB202D96F20BD6BD.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.55.08:718][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 18.8 sec)
+[2024.04.19-04.55.08:720][849]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.55.08:720][849]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.55.09:812][936]BlueprintLog: New page: Compile WB_Arrows
+[2024.04.19-04.55.09:859][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.04.19-04.55.34:262][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.04.19-04.55.34:269][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.55.34:345][846]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.55.34:345][846]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows4BDF456C498EE282C891589B54A4991D.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.55.34:356][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 18.9 sec)
+[2024.04.19-04.55.34:357][846]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.55.34:357][846]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.55.43:816][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.19-04.55.43:822][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.55.43:893][647]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.55.43:894][647]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows100CFE854D63E2C1941319848C4F157A.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.55.43:904][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 18.9 sec)
+[2024.04.19-04.55.43:905][647]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.55.43:905][647]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.56.36:726][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.19-04.56.36:732][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.56.36:887][693]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-04.56.36:887][693]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacter831280DF409B602CA40A5A92599C599F.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-04.56.36:905][693]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.56.36:907][693]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows2B581DD042A7D10787746BAC546A8876.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.56.36:919][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 19.1 sec)
+[2024.04.19-04.56.36:922][693]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-04.56.36:922][693]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-04.56.36:922][693]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.56.58:198][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.04.19-04.56.58:204][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.56.58:264][346]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.56.58:264][346]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows52CF9CD648DF63D161443C940A306E05.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.56.58:275][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 19.2 sec)
+[2024.04.19-04.56.58:278][346]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.56.58:278][346]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.57.04:629][857]BlueprintLog: New page: Collapse to Function
+[2024.04.19-04.57.16:083][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.04.19-04.57.16:089][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.57.16:162][742]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.57.16:163][742]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows7585341645918EBA190A609D1862FE9D.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.57.16:173][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 19.3 sec)
+[2024.04.19-04.57.16:175][742]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.57.16:175][742]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.57.24:243][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.04.19-04.57.24:249][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.57.24:324][370]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.57.24:324][370]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows1243AD2746D197E5E9DE8699B05AA2AC.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.57.24:335][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 19.4 sec)
+[2024.04.19-04.57.24:337][370]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.57.24:337][370]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.57.37:140][334]LogEditorTransaction: Undo Delete current selection
+[2024.04.19-04.57.53:546][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.04.19-04.57.53:554][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.57.53:703][441]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-04.57.53:703][441]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacterC213801C48849BAAAE787196A9613E65.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-04.57.53:713][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 19.5 sec)
+[2024.04.19-04.57.53:716][441]AssetCheck: New page: Asset Save: BP_MDCharacter
+[2024.04.19-04.57.53:716][441]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-04.58.22:044][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.04.19-04.58.22:051][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.58.22:195][516]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-04.58.22:196][516]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacter534612AE4834D908ED5DF682BAE4017B.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-04.58.22:216][516]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.58.22:217][516]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_ArrowsD2AAC3364A7AE0F1A90A2D83D52E5E1E.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.58.22:227][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 19.7 sec)
+[2024.04.19-04.58.22:229][516]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-04.58.22:229][516]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-04.58.22:229][516]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.58.47:514][572]LogEditorTransaction: Undo Delete current selection
+[2024.04.19-04.58.50:963][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.04.19-04.58.50:971][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.58.51:036][814]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.58.51:037][814]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows392876574CCBED4F4ACD58AA493AE20D.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.58.51:048][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 19.8 sec)
+[2024.04.19-04.58.51:050][814]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.58.51:050][814]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.59.03:976][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.19-04.59.03:983][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.59.04:045][858]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.59.04:045][858]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows4E3C4DBC408386D7AA1EAF83345D68DA.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.59.04:055][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 19.9 sec)
+[2024.04.19-04.59.04:057][858]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.59.04:057][858]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.59.15:802][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.04.19-04.59.15:811][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.59.15:953][802]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-04.59.15:953][802]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacter1B451BA44144131893945CAB4C21C871.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-04.59.15:972][802]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.59.15:972][802]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_ArrowsBB67C46D4306DB7C50A01DA708B83C8A.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.59.15:984][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 20.0 sec)
+[2024.04.19-04.59.15:986][802]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-04.59.15:986][802]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-04.59.15:986][802]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-04.59.33:995][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.19-04.59.49:913][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.19-04.59.49:921][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-04.59.49:993][746]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-04.59.49:993][746]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows4C6B12ED4A71AC7C145B2394A6DE2D33.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-04.59.50:004][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 20.1 sec)
+[2024.04.19-04.59.50:005][746]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-04.59.50:005][746]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.00.09:542][447]LogEditorTransaction: Undo Create Pin Link
+[2024.04.19-05.00.09:773][450]LogEditorTransaction: Undo Move Node
+[2024.04.19-05.00.10:379][479]LogEditorTransaction: Undo Create Pin Link
+[2024.04.19-05.00.29:661][160]LogEditorTransaction: Undo Delete current selection
+[2024.04.19-05.00.53:009][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.04.19-05.00.53:016][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.00.53:082][321]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.00.53:082][321]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows89C13DF14B24857B8321529DAF19D067.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.00.53:094][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 20.2 sec)
+[2024.04.19-05.00.53:096][321]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.00.53:096][321]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.01.45:610][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.04.19-05.01.45:618][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.01.45:680][765]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.01.45:680][765]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows4E7D3CC44DB6B1E5AFA39EAEE77094E6.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.01.45:691][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 20.3 sec)
+[2024.04.19-05.01.45:693][765]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.01.45:693][765]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.03.06:598][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.04.19-05.03.06:606][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.03.06:671][945]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.03.06:672][945]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_ArrowsF664AF184EF2137E8EB9CABCDBC15E54.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.03.06:682][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 20.3 sec)
+[2024.04.19-05.03.06:682][945]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.03.06:682][945]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.03.34:977][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.19-05.03.34:984][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.03.35:047][981]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.03.35:048][981]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows49A7C4A5482B66E2BC14778CA6C99044.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.03.35:059][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 20.4 sec)
+[2024.04.19-05.03.35:060][981]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.03.35:061][981]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.03.39:291][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.19-05.03.39:296][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.03.39:368][315]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.03.39:368][315]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows561209E1457C0B5645815FB24BFFB372.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.03.39:379][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 20.5 sec)
+[2024.04.19-05.03.39:380][315]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.03.39:380][315]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.04.20:362][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.19-05.04.20:371][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.04.20:437][697]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.04.20:438][697]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows8E0DD5934F8B0694E0A1F284607D1DD3.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.04.20:451][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 20.6 sec)
+[2024.04.19-05.04.20:456][697]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.04.20:456][697]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.05.31:801][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.19-05.05.31:807][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.05.31:854][491]LogSavePackage: Moving output files for package: /Game/_Romo/Character/DT_Arrows
+[2024.04.19-05.05.31:855][491]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/DT_Arrows4CE457C5476E01B2F8FCFC917F2EE754.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/DT_Arrows.uasset'
+[2024.04.19-05.05.31:866][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 20.6 sec)
+[2024.04.19-05.05.31:867][491]AssetCheck: New page: Asset Save: DT_Arrows
+[2024.04.19-05.05.31:867][491]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/_Romo/Character/DT_Arrows.DT_Arrows
+[2024.04.19-05.06.35:956][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.19-05.06.35:965][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.06.36:028][611]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.06.36:029][611]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows948A89AE49E9E355D7708F9450C8451E.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.06.36:042][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 20.7 sec)
+[2024.04.19-05.06.36:044][611]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.06.36:044][611]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.06.44:456][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.19-05.06.44:462][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.06.44:524][223]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.06.44:524][223]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows1AD4B7F84F21087EE231B88263E4C545.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.06.44:539][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 20.8 sec)
+[2024.04.19-05.06.44:541][223]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.06.44:541][223]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.07.37:462][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.04.19-05.07.37:468][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.07.37:615][872]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-05.07.37:616][872]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacter609301AB43DE1C4AD54721B6A1644225.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-05.07.37:628][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 20.9 sec)
+[2024.04.19-05.07.37:630][872]AssetCheck: New page: Asset Save: BP_MDCharacter
+[2024.04.19-05.07.37:630][872]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-05.07.42:709][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.19-05.07.42:715][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.07.42:869][166]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-05.07.42:869][166]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacterEA45C26245D752580DC9BBA38A974318.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-05.07.42:880][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 21.1 sec)
+[2024.04.19-05.07.42:882][166]AssetCheck: New page: Asset Save: BP_MDCharacter
+[2024.04.19-05.07.42:882][166]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-05.07.49:342][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.19-05.07.49:348][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.07.49:491][558]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-05.07.49:492][558]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacter896DB3334B60C2446593BC8DE15678CB.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-05.07.49:503][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 21.3 sec)
+[2024.04.19-05.07.49:505][558]AssetCheck: New page: Asset Save: BP_MDCharacter
+[2024.04.19-05.07.49:505][558]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-05.07.55:432][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.04.19-05.07.55:438][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.07.55:586][910]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-05.07.55:586][910]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacterE051023749392682D7DF548FDF185FE7.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-05.07.55:597][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 21.4 sec)
+[2024.04.19-05.07.55:600][910]AssetCheck: New page: Asset Save: BP_MDCharacter
+[2024.04.19-05.07.55:601][910]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-05.07.56:166][947]BlueprintLog: New page: Compile BP_MDCharacter
+[2024.04.19-05.07.56:264][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.19-05.07.56:962][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.07.57:107][953]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-05.07.57:107][953]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacterD05033A64980BD62AF3CAFA65A41BD9F.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-05.07.57:118][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 21.6 sec)
+[2024.04.19-05.07.57:120][953]AssetCheck: New page: Asset Save: BP_MDCharacter
+[2024.04.19-05.07.57:120][953]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-05.08.06:093][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.19-05.08.06:100][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.08.06:233][516]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-05.08.06:234][516]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacter8801C2704E0F6018B9426B87EB93BD1F.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-05.08.06:245][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 21.7 sec)
+[2024.04.19-05.08.06:248][516]AssetCheck: New page: Asset Save: BP_MDCharacter
+[2024.04.19-05.08.06:248][516]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-05.08.06:835][554]BlueprintLog: New page: Compile BP_MDCharacter
+[2024.04.19-05.08.06:864][554]LogBlueprint: Error: [AssetLog] C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Content\_Romo\Character\BP_MDCharacter.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Clear  to imply a specific type.
+[2024.04.19-05.08.06:867][554]LogBlueprint: Error: [AssetLog] C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Content\_Romo\Character\BP_MDCharacter.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2024.04.19-05.08.06:922][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.04.19-05.08.07:848][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.08.07:983][575]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-05.08.07:985][575]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacterF9BC55154C8002A52159FFAB5B5DC756.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-05.08.07:995][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 21.9 sec)
+[2024.04.19-05.08.07:996][575]AssetCheck: New page: Asset Save: BP_MDCharacter
+[2024.04.19-05.08.07:996][575]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-05.08.17:680][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.19-05.08.17:686][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.08.17:819][184]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-05.08.17:820][184]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacter52A589374ACCEFFF719772A78527A433.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-05.08.17:832][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 22.0 sec)
+[2024.04.19-05.08.17:836][184]AssetCheck: New page: Asset Save: BP_MDCharacter
+[2024.04.19-05.08.17:836][184]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-05.08.18:580][233]BlueprintLog: New page: Compile BP_MDCharacter
+[2024.04.19-05.08.18:668][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.19-05.08.20:487][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.19-05.08.24:915][585]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-05.08.24:921][585]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.19-05.08.24:948][585]LogPlayLevel: [PlayLevel] Compiling WB_Arrows before play...
+[2024.04.19-05.08.25:215][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.04.19-05.08.25:221][585]LogPlayLevel: PlayLevel: Blueprint regeneration took 299 ms (1 blueprints)
+[2024.04.19-05.08.25:221][585]PIE: New page: PIE session: NivelTuto1 (Apr 18, 2024, 6:08:25 PM)
+[2024.04.19-05.08.25:221][585]LogPlayLevel: Creating play world package: /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-05.08.25:229][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006978s)
+[2024.04.19-05.08.25:229][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Romo/Maps/NivelTuto1.NivelTuto1 to /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 (0.007031s)
+[2024.04.19-05.08.25:247][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.19-05.08.25:249][585]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-05.08.25:249][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-05.08.25:249][585]LogAIModule: Creating AISystem for world NivelTuto1
+[2024.04.19-05.08.25:250][585]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2024.04.19-05.08.25:250][585]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2024.04.19-05.08.25:250][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-05.08.25:250][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-05.08.25:250][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-05.08.25:250][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-05.08.25:250][585]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-05.08.25:250][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-05.08.25:250][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-05.08.25:250][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-05.08.25:251][585]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-05.08.25:251][585]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-05.08.25:251][585]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-05.08.25:252][585]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-05.08.25:280][585]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (THX Spatial)
+[2024.04.19-05.08.25:281][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-05.08.25:281][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-05.08.25:281][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-05.08.25:282][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2024.04.19-05.08.25:282][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=53
+[2024.04.19-05.08.25:284][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2024.04.19-05.08.25:284][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2024.04.19-05.08.25:284][585]LogInit: FAudioDevice initialized with ID 53.
+[2024.04.19-05.08.25:284][585]LogAudio: Display: Audio Device (ID: 53) registered with world 'NivelTuto1'.
+[2024.04.19-05.08.25:284][585]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2024.04.19-05.08.25:287][585]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.19-05.08.25:293][585]LogWorld: Bringing World /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 up for play (max tick rate 0) at 2024.04.18-23.08.25
+[2024.04.19-05.08.25:293][585]LogWorld: Bringing up level for play took: 0.006361
+[2024.04.19-05.08.25:296][585]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.04.19-05.08.25:300][585]PIE: Server logged in
+[2024.04.19-05.08.25:302][585]PIE: Play in editor total start time 0.38 seconds.
+[2024.04.19-05.08.34:795][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-05.08.34:795][107]LogWorld: BeginTearingDown for /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-05.08.34:795][107]LogWorld: UWorld::CleanupWorld for NivelTuto1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-05.08.34:796][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-05.08.34:799][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-05.08.34:804][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-05.08.34:821][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-05.08.34:822][107]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2024.04.19-05.08.34:822][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.04.19-05.08.34:825][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.04.19-05.08.34:835][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.04.19-05.08.34:896][108]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.04.19-05.08.36:576][208]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.19-05.08.39:799][369]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-05.08.39:895][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.04.19-05.08.39:895][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.04.19-05.08.39:896][371]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/_Romo/Maps/NivelTuto1.NivelTuto1:PersistentLevel.StaticMeshActor_1
+[2024.04.19-05.08.39:896][371]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/_Romo/Maps/NivelTuto1.NivelTuto1:PersistentLevel.StaticMeshActor_1
+[2024.04.19-05.08.41:147][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.04.19-05.08.41:148][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.04.19-05.08.41:149][440]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/_Romo/Maps/NivelTuto1.NivelTuto1:PersistentLevel.StaticMeshActor_28
+[2024.04.19-05.08.41:150][440]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/_Romo/Maps/NivelTuto1.NivelTuto1:PersistentLevel.StaticMeshActor_28
+[2024.04.19-05.08.52:078][959]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-05.08.52:083][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-05.08.52:084][959]PIE: New page: PIE session: NivelTuto1 (Apr 18, 2024, 6:08:52 PM)
+[2024.04.19-05.08.52:084][959]LogPlayLevel: Creating play world package: /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-05.08.52:091][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007244s)
+[2024.04.19-05.08.52:091][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Romo/Maps/NivelTuto1.NivelTuto1 to /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 (0.007292s)
+[2024.04.19-05.08.52:114][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.19-05.08.52:117][959]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-05.08.52:117][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-05.08.52:117][959]LogAIModule: Creating AISystem for world NivelTuto1
+[2024.04.19-05.08.52:117][959]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2024.04.19-05.08.52:118][959]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2024.04.19-05.08.52:118][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-05.08.52:118][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-05.08.52:118][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-05.08.52:118][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-05.08.52:118][959]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-05.08.52:118][959]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-05.08.52:118][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-05.08.52:118][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-05.08.52:118][959]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-05.08.52:118][959]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-05.08.52:118][959]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-05.08.52:120][959]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-05.08.52:146][959]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (THX Spatial)
+[2024.04.19-05.08.52:146][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-05.08.52:146][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-05.08.52:146][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-05.08.52:147][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2024.04.19-05.08.52:147][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=54
+[2024.04.19-05.08.52:148][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2024.04.19-05.08.52:149][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2024.04.19-05.08.52:149][959]LogInit: FAudioDevice initialized with ID 54.
+[2024.04.19-05.08.52:149][959]LogAudio: Display: Audio Device (ID: 54) registered with world 'NivelTuto1'.
+[2024.04.19-05.08.52:149][959]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2024.04.19-05.08.52:151][959]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.19-05.08.52:156][959]LogWorld: Bringing World /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 up for play (max tick rate 0) at 2024.04.18-23.08.52
+[2024.04.19-05.08.52:156][959]LogWorld: Bringing up level for play took: 0.005100
+[2024.04.19-05.08.52:159][959]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.04.19-05.08.52:163][959]PIE: Server logged in
+[2024.04.19-05.08.52:164][959]PIE: Play in editor total start time 0.081 seconds.
+[2024.04.19-05.09.11:226][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-05.09.11:226][ 42]LogWorld: BeginTearingDown for /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-05.09.11:226][ 42]LogWorld: UWorld::CleanupWorld for NivelTuto1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-05.09.11:227][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-05.09.11:229][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-05.09.11:235][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-05.09.11:252][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-05.09.11:252][ 42]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2024.04.19-05.09.11:252][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.04.19-05.09.11:255][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.04.19-05.09.11:265][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.19-05.09.11:384][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.04.19-05.09.11:881][ 66]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-05.09.11:887][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-05.09.11:887][ 66]PIE: New page: PIE session: NivelTuto1 (Apr 18, 2024, 6:09:11 PM)
+[2024.04.19-05.09.11:887][ 66]LogPlayLevel: Creating play world package: /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-05.09.11:895][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007178s)
+[2024.04.19-05.09.11:895][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Romo/Maps/NivelTuto1.NivelTuto1 to /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 (0.007217s)
+[2024.04.19-05.09.11:913][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.19-05.09.11:916][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-05.09.11:916][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-05.09.11:916][ 66]LogAIModule: Creating AISystem for world NivelTuto1
+[2024.04.19-05.09.11:917][ 66]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2024.04.19-05.09.11:917][ 66]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.04.19-05.09.11:917][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-05.09.11:917][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-05.09.11:917][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-05.09.11:917][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-05.09.11:917][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-05.09.11:917][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-05.09.11:917][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-05.09.11:917][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-05.09.11:917][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-05.09.11:917][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-05.09.11:917][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-05.09.11:920][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-05.09.11:944][ 66]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (THX Spatial)
+[2024.04.19-05.09.11:944][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-05.09.11:944][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-05.09.11:944][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-05.09.11:945][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2024.04.19-05.09.11:945][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=55
+[2024.04.19-05.09.11:946][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2024.04.19-05.09.11:947][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2024.04.19-05.09.11:947][ 66]LogInit: FAudioDevice initialized with ID 55.
+[2024.04.19-05.09.11:947][ 66]LogAudio: Display: Audio Device (ID: 55) registered with world 'NivelTuto1'.
+[2024.04.19-05.09.11:947][ 66]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2024.04.19-05.09.11:950][ 66]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.19-05.09.11:954][ 66]LogWorld: Bringing World /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 up for play (max tick rate 0) at 2024.04.18-23.09.11
+[2024.04.19-05.09.11:955][ 66]LogWorld: Bringing up level for play took: 0.005166
+[2024.04.19-05.09.11:957][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2024.04.19-05.09.11:962][ 66]PIE: Server logged in
+[2024.04.19-05.09.11:963][ 66]PIE: Play in editor total start time 0.076 seconds.
+[2024.04.19-05.09.20:120][530]LogBlueprintUserMessages: [BP_MDCharacter_C_0] camino bloqueado
+[2024.04.19-05.09.26:275][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-05.09.26:275][883]LogWorld: BeginTearingDown for /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-05.09.26:275][883]LogWorld: UWorld::CleanupWorld for NivelTuto1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-05.09.26:275][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-05.09.26:278][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-05.09.26:284][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-05.09.26:301][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-05.09.26:301][883]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2024.04.19-05.09.26:302][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.04.19-05.09.26:303][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.04.19-05.09.26:314][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.19-05.09.26:424][884]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2024.04.19-05.10.00:423][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.04.19-05.10.00:429][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.10.00:503][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.19-05.10.00:529][728]LogSavePackage: Moving output files for package: /Game/_Romo/Maps/NivelTuto1
+[2024.04.19-05.10.00:530][728]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/NivelTuto139EBC0AE47752E80BD4C12BC799CF0AA.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Maps/NivelTuto1.umap'
+[2024.04.19-05.10.00:542][728]LogFileHelpers: Saving map 'NivelTuto1' took 0.077
+[2024.04.19-05.10.00:562][728]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.10.00:562][728]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows05BAEBB741FBD26431FC50B52CD28A8F.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.10.00:574][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 22.2 sec)
+[2024.04.19-05.10.00:577][728]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-05.10.00:577][728]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Romo/Maps/NivelTuto1.NivelTuto1
+[2024.04.19-05.10.00:577][728]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.10.43:531][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.19-05.10.43:538][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.10.43:614][666]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.10.43:614][666]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows85C403FF43C1E731C58F1A827D11F479.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.10.43:626][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 22.3 sec)
+[2024.04.19-05.10.43:627][666]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.10.43:628][666]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.11.00:089][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.19-05.11.00:095][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.11.00:168][754]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.11.00:169][754]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows5118C7FF4FA57C3C1BD55BBC94C34B35.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.11.00:180][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 22.3 sec)
+[2024.04.19-05.11.00:182][754]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.11.00:182][754]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.11.06:711][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.04.19-05.11.06:716][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.11.06:792][171]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.11.06:792][171]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows414F901244A611C58C9A7090BDD8F425.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.11.06:805][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 22.4 sec)
+[2024.04.19-05.11.06:806][171]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.11.06:806][171]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.11.19:005][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.04.19-05.11.19:011][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.11.19:090][939]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.11.19:090][939]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows0020ECD043EF8BE89C4E3F897551D6D2.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.11.19:102][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 22.5 sec)
+[2024.04.19-05.11.19:103][939]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.11.19:103][939]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.11.23:822][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.19-05.11.23:827][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.11.23:903][218]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.11.23:904][218]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_Arrows35FA81854EAEBB1C6630B9A517763B02.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.11.23:915][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 22.6 sec)
+[2024.04.19-05.11.23:917][218]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.11.23:917][218]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.11.27:980][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.19-05.11.27:986][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.11.28:059][496]LogSavePackage: Moving output files for package: /Game/_Romo/Character/WB_Arrows
+[2024.04.19-05.11.28:060][496]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/WB_ArrowsC91EE6BA49F784A2AD51D39235CDD422.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/WB_Arrows.uasset'
+[2024.04.19-05.11.28:072][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 22.7 sec)
+[2024.04.19-05.11.28:072][496]AssetCheck: New page: Asset Save: WB_Arrows
+[2024.04.19-05.11.28:072][496]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Romo/Character/WB_Arrows.WB_Arrows
+[2024.04.19-05.11.32:445][744]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-05.11.32:451][744]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.19-05.11.32:477][744]LogPlayLevel: [PlayLevel] Compiling WB_Arrows before play...
+[2024.04.19-05.11.32:782][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.04.19-05.11.32:786][744]LogPlayLevel: PlayLevel: Blueprint regeneration took 335 ms (1 blueprints)
+[2024.04.19-05.11.32:786][744]PIE: New page: PIE session: NivelTuto1 (Apr 18, 2024, 6:11:32 PM)
+[2024.04.19-05.11.32:786][744]LogPlayLevel: Creating play world package: /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-05.11.32:793][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007008s)
+[2024.04.19-05.11.32:793][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Romo/Maps/NivelTuto1.NivelTuto1 to /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 (0.007049s)
+[2024.04.19-05.11.32:813][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.19-05.11.32:815][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-05.11.32:815][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-05.11.32:816][744]LogAIModule: Creating AISystem for world NivelTuto1
+[2024.04.19-05.11.32:816][744]LogPlayLevel: PIE: World Init took: (0.001386s)
+[2024.04.19-05.11.32:816][744]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2024.04.19-05.11.32:816][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-05.11.32:816][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-05.11.32:816][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-05.11.32:816][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-05.11.32:816][744]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-05.11.32:816][744]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-05.11.32:816][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-05.11.32:816][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-05.11.32:817][744]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-05.11.32:817][744]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-05.11.32:817][744]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-05.11.32:820][744]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-05.11.32:845][744]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (THX Spatial)
+[2024.04.19-05.11.32:845][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-05.11.32:845][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-05.11.32:845][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-05.11.32:846][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2024.04.19-05.11.32:846][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=56
+[2024.04.19-05.11.32:847][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2024.04.19-05.11.32:847][744]LogInit: FAudioDevice initialized with ID 56.
+[2024.04.19-05.11.32:847][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2024.04.19-05.11.32:847][744]LogAudio: Display: Audio Device (ID: 56) registered with world 'NivelTuto1'.
+[2024.04.19-05.11.32:847][744]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2024.04.19-05.11.32:851][744]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.19-05.11.32:856][744]LogWorld: Bringing World /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 up for play (max tick rate 0) at 2024.04.18-23.11.32
+[2024.04.19-05.11.32:856][744]LogWorld: Bringing up level for play took: 0.005157
+[2024.04.19-05.11.32:859][744]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2024.04.19-05.11.32:863][744]PIE: Server logged in
+[2024.04.19-05.11.32:865][744]PIE: Play in editor total start time 0.414 seconds.
+[2024.04.19-05.11.39:136][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-05.11.39:136][195]LogWorld: BeginTearingDown for /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-05.11.39:136][195]LogWorld: UWorld::CleanupWorld for NivelTuto1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-05.11.39:137][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-05.11.39:140][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-05.11.39:144][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-05.11.39:164][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-05.11.39:164][195]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2024.04.19-05.11.39:164][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.04.19-05.11.39:166][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.04.19-05.11.39:178][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.19-05.11.39:288][196]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2024.04.19-05.11.51:272][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.19-05.11.51:278][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.11.51:423][767]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-05.11.51:424][767]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacter145E2F344210C00F42FCC3AD601F04D9.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-05.11.51:436][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 22.9 sec)
+[2024.04.19-05.11.51:438][767]AssetCheck: New page: Asset Save: BP_MDCharacter
+[2024.04.19-05.11.51:438][767]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-05.11.51:710][782]BlueprintLog: New page: Compile BP_MDCharacter
+[2024.04.19-05.11.51:809][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.04.19-05.11.54:133][862]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-05.11.54:140][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-05.11.54:140][862]PIE: New page: PIE session: NivelTuto1 (Apr 18, 2024, 6:11:54 PM)
+[2024.04.19-05.11.54:141][862]LogPlayLevel: Creating play world package: /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-05.11.54:147][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007226s)
+[2024.04.19-05.11.54:147][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Romo/Maps/NivelTuto1.NivelTuto1 to /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 (0.007276s)
+[2024.04.19-05.11.54:168][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.04.19-05.11.54:171][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-05.11.54:171][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-05.11.54:172][862]LogAIModule: Creating AISystem for world NivelTuto1
+[2024.04.19-05.11.54:172][862]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2024.04.19-05.11.54:172][862]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2024.04.19-05.11.54:172][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-05.11.54:172][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-05.11.54:172][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-05.11.54:172][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-05.11.54:172][862]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-05.11.54:172][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-05.11.54:172][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-05.11.54:172][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-05.11.54:172][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-05.11.54:172][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-05.11.54:172][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-05.11.54:176][862]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-05.11.54:200][862]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (THX Spatial)
+[2024.04.19-05.11.54:200][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-05.11.54:201][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-05.11.54:201][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-05.11.54:202][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2024.04.19-05.11.54:202][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=57
+[2024.04.19-05.11.54:204][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2024.04.19-05.11.54:204][862]LogInit: FAudioDevice initialized with ID 57.
+[2024.04.19-05.11.54:204][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2024.04.19-05.11.54:204][862]LogAudio: Display: Audio Device (ID: 57) registered with world 'NivelTuto1'.
+[2024.04.19-05.11.54:204][862]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2024.04.19-05.11.54:206][862]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.19-05.11.54:212][862]LogWorld: Bringing World /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1 up for play (max tick rate 0) at 2024.04.18-23.11.54
+[2024.04.19-05.11.54:212][862]LogWorld: Bringing up level for play took: 0.005046
+[2024.04.19-05.11.54:214][862]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.04.19-05.11.54:218][862]PIE: Server logged in
+[2024.04.19-05.11.54:220][862]PIE: Play in editor total start time 0.08 seconds.
+[2024.04.19-05.11.59:252][165]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ActionArray' of length 0 in '/Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter_C'!
+[2024.04.19-05.11.59:252][165]LogScript: Warning: Script Msg called by: BP_MDCharacter_C /Game/_Romo/Maps/UEDPIE_0_NivelTuto1.NivelTuto1:PersistentLevel.BP_MDCharacter_C_0
+[2024.04.19-05.12.06:456][624]LogBlueprintUserMessages: [BP_MDCharacter_C_0] camino bloqueado
+[2024.04.19-05.12.06:961][657]LogBlueprintUserMessages: [BP_MDCharacter_C_0] camino bloqueado
+[2024.04.19-05.12.07:216][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-05.12.07:216][672]LogWorld: BeginTearingDown for /Game/_Romo/Maps/UEDPIE_0_NivelTuto1
+[2024.04.19-05.12.07:216][672]LogWorld: UWorld::CleanupWorld for NivelTuto1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-05.12.07:217][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-05.12.07:219][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-05.12.07:224][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-05.12.07:243][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.19-05.12.07:243][672]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2024.04.19-05.12.07:243][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.04.19-05.12.07:245][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.04.19-05.12.07:251][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-05.12.07:255][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.19-05.12.07:366][673]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.04.19-05.12.15:427][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.04.19-05.12.15:433][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.12.15:562][ 41]LogSavePackage: Moving output files for package: /Game/_Romo/Character/BP_MDCharacter
+[2024.04.19-05.12.15:563][ 41]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/BP_MDCharacterB9B5E2CB418D806BF23F76A1C6CDB492.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Character/BP_MDCharacter.uasset'
+[2024.04.19-05.12.15:576][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 23.0 sec)
+[2024.04.19-05.12.15:578][ 41]AssetCheck: New page: Asset Save: BP_MDCharacter
+[2024.04.19-05.12.15:578][ 41]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Romo/Character/BP_MDCharacter.BP_MDCharacter
+[2024.04.19-05.12.26:822][900]Cmd: DELETE
+[2024.04.19-05.12.26:822][900]Cmd: ACTOR DELETE
+[2024.04.19-05.12.26:834][900]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.26:852][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.19-05.12.26:855][900]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.04.19-05.12.27:236][926]Cmd: DELETE
+[2024.04.19-05.12.27:236][926]Cmd: ACTOR DELETE
+[2024.04.19-05.12.27:238][926]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.27:257][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.19-05.12.27:260][926]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.04.19-05.12.27:582][948]Cmd: DELETE
+[2024.04.19-05.12.27:582][948]Cmd: ACTOR DELETE
+[2024.04.19-05.12.27:584][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.27:602][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.19-05.12.27:607][948]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.04.19-05.12.27:924][973]Cmd: DELETE
+[2024.04.19-05.12.27:924][973]Cmd: ACTOR DELETE
+[2024.04.19-05.12.27:927][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.27:946][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.19-05.12.27:949][973]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.04.19-05.12.28:323][997]Cmd: DELETE
+[2024.04.19-05.12.28:323][997]Cmd: ACTOR DELETE
+[2024.04.19-05.12.28:326][997]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.28:345][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.19-05.12.28:348][997]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.04.19-05.12.28:631][ 14]Cmd: DELETE
+[2024.04.19-05.12.28:631][ 14]Cmd: ACTOR DELETE
+[2024.04.19-05.12.28:634][ 14]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.28:652][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.19-05.12.28:656][ 14]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.04.19-05.12.28:903][ 27]Cmd: DELETE
+[2024.04.19-05.12.28:903][ 27]Cmd: ACTOR DELETE
+[2024.04.19-05.12.28:906][ 27]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.28:924][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.19-05.12.28:928][ 27]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.04.19-05.12.29:771][105]Cmd: DELETE
+[2024.04.19-05.12.29:771][105]Cmd: ACTOR DELETE
+[2024.04.19-05.12.29:772][105]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.29:793][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.19-05.12.29:797][105]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.04.19-05.12.30:187][135]Cmd: DELETE
+[2024.04.19-05.12.30:187][135]Cmd: ACTOR DELETE
+[2024.04.19-05.12.30:190][135]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.30:208][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.19-05.12.30:212][135]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.04.19-05.12.30:477][151]Cmd: DELETE
+[2024.04.19-05.12.30:477][151]Cmd: ACTOR DELETE
+[2024.04.19-05.12.30:479][151]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.30:500][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.19-05.12.30:503][151]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.04.19-05.12.31:040][206]Cmd: DELETE
+[2024.04.19-05.12.31:040][206]Cmd: ACTOR DELETE
+[2024.04.19-05.12.31:042][206]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.31:062][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.19-05.12.31:065][206]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.04.19-05.12.31:484][237]Cmd: DELETE
+[2024.04.19-05.12.31:484][237]Cmd: ACTOR DELETE
+[2024.04.19-05.12.31:487][237]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.31:508][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.19-05.12.31:511][237]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.04.19-05.12.31:847][259]Cmd: DELETE
+[2024.04.19-05.12.31:847][259]Cmd: ACTOR DELETE
+[2024.04.19-05.12.31:849][259]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.31:868][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.19-05.12.31:872][259]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.04.19-05.12.32:399][305]Cmd: DELETE
+[2024.04.19-05.12.32:399][305]Cmd: ACTOR DELETE
+[2024.04.19-05.12.32:402][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.32:421][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.19-05.12.32:425][305]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.04.19-05.12.32:640][321]Cmd: DELETE
+[2024.04.19-05.12.32:640][321]Cmd: ACTOR DELETE
+[2024.04.19-05.12.32:642][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.32:659][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.19-05.12.32:662][321]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.04.19-05.12.32:988][341]Cmd: DELETE
+[2024.04.19-05.12.32:988][341]Cmd: ACTOR DELETE
+[2024.04.19-05.12.32:990][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.33:008][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.19-05.12.33:011][341]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.04.19-05.12.33:320][362]Cmd: DELETE
+[2024.04.19-05.12.33:320][362]Cmd: ACTOR DELETE
+[2024.04.19-05.12.33:323][362]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.33:342][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.19-05.12.33:345][362]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.04.19-05.12.33:858][406]Cmd: DELETE
+[2024.04.19-05.12.33:858][406]Cmd: ACTOR DELETE
+[2024.04.19-05.12.33:860][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.33:880][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.19-05.12.33:884][406]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.04.19-05.12.34:206][428]Cmd: DELETE
+[2024.04.19-05.12.34:206][428]Cmd: ACTOR DELETE
+[2024.04.19-05.12.34:208][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.34:226][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.19-05.12.34:230][428]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.04.19-05.12.34:884][480]Cmd: DELETE
+[2024.04.19-05.12.34:884][480]Cmd: ACTOR DELETE
+[2024.04.19-05.12.34:886][480]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.34:904][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.19-05.12.34:908][480]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.04.19-05.12.35:351][514]Cmd: DELETE
+[2024.04.19-05.12.35:351][514]Cmd: ACTOR DELETE
+[2024.04.19-05.12.35:353][514]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.35:372][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.19-05.12.35:375][514]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.04.19-05.12.35:645][533]Cmd: DELETE
+[2024.04.19-05.12.35:645][533]Cmd: ACTOR DELETE
+[2024.04.19-05.12.35:647][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.35:666][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.19-05.12.35:670][533]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.04.19-05.12.35:974][557]Cmd: DELETE
+[2024.04.19-05.12.35:976][557]Cmd: ACTOR DELETE
+[2024.04.19-05.12.35:977][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.35:998][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.19-05.12.36:002][557]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.04.19-05.12.36:303][581]Cmd: DELETE
+[2024.04.19-05.12.36:303][581]Cmd: ACTOR DELETE
+[2024.04.19-05.12.36:304][581]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.36:323][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.19-05.12.36:326][581]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.04.19-05.12.36:700][613]Cmd: DELETE
+[2024.04.19-05.12.36:700][613]Cmd: ACTOR DELETE
+[2024.04.19-05.12.36:701][613]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.19-05.12.36:719][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.19-05.12.36:723][613]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.04.19-05.12.39:855][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-05.12.39:947][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.19-05.12.39:968][928]LogSavePackage: Moving output files for package: /Game/_Romo/Maps/NivelTuto1
+[2024.04.19-05.12.39:969][928]LogSavePackage: Moving '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Saved/NivelTuto15BFAD2E340201C21B7FCC798D3F09DD3.tmp' to '../../../../../../Users/black/Documents/UNIAT/6_Semestre/TallerVideojuegosII/Taller2P1/MegaDungeon/Content/_Romo/Maps/NivelTuto1.umap'
+[2024.04.19-05.12.39:974][928]LogFileHelpers: Saving map 'NivelTuto1' took 0.065
+[2024.04.19-05.12.39:985][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 23.1 sec)
+[2024.04.19-05.12.39:988][928]AssetCheck: New page: Asset Save: NivelTuto1
+[2024.04.19-05.12.39:988][928]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Romo/Maps/NivelTuto1.NivelTuto1
+[2024.04.19-05.12.42:664][228]LogViewport: Scene viewport resized to 710x595, mode Windowed.
+[2024.04.19-05.12.43:030][228]LogViewport: Scene viewport resized to 1057x892, mode Windowed.
