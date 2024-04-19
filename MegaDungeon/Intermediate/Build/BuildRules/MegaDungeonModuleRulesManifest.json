@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\black\\Documents\\UNIAT\\6_Semestre\\TallerVideojuegosII\\Taller2P1\\MegaDungeon\\Source\\MegaDungeon\\MegaDungeon.Build.cs",
-		"C:\\Users\\black\\Documents\\UNIAT\\6_Semestre\\TallerVideojuegosII\\Taller2P1\\MegaDungeon\\Source\\MegaDungeon.Target.cs",
-		"C:\\Users\\black\\Documents\\UNIAT\\6_Semestre\\TallerVideojuegosII\\Taller2P1\\MegaDungeon\\Source\\MegaDungeonEditor.Target.cs"
+		"D:\\6toSemestre\\4_Taller_VJ_II\\P1\\Taller2P1\\MegaDungeon\\Source\\MegaDungeon\\MegaDungeon.Build.cs",
+		"D:\\6toSemestre\\4_Taller_VJ_II\\P1\\Taller2P1\\MegaDungeon\\Source\\MegaDungeon.Target.cs",
+		"D:\\6toSemestre\\4_Taller_VJ_II\\P1\\Taller2P1\\MegaDungeon\\Source\\MegaDungeonEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
