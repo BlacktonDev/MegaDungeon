@@ -93,23 +93,15 @@ void EmptyLinkFunctionForGeneratedCodeRomoPlayer() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ARomoPlayer);
 	ARomoPlayer::~ARomoPlayer() {}
-	struct Z_CompiledInDeferFile_FID_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics
+	struct Z_CompiledInDeferFile_FID_escuela_UnrealProjects_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-<<<<<<< Updated upstream
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_black_Documents_UNIAT_6_Semestre_TallerVideojuegosII_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_escuela_UnrealProjects_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_ARomoPlayer, ARomoPlayer::StaticClass, TEXT("ARomoPlayer"), &Z_Registration_Info_UClass_ARomoPlayer, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ARomoPlayer), 618910071U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_black_Documents_UNIAT_6_Semestre_TallerVideojuegosII_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_4143409737(TEXT("/Script/MegaDungeon"),
-		Z_CompiledInDeferFile_FID_Users_black_Documents_UNIAT_6_Semestre_TallerVideojuegosII_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_black_Documents_UNIAT_6_Semestre_TallerVideojuegosII_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics::ClassInfo),
-=======
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_ARomoPlayer, ARomoPlayer::StaticClass, TEXT("ARomoPlayer"), &Z_Registration_Info_UClass_ARomoPlayer, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ARomoPlayer), 618910071U) },
-	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_4143409737(TEXT("/Script/MegaDungeon"),
-		Z_CompiledInDeferFile_FID_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics::ClassInfo),
->>>>>>> Stashed changes
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_escuela_UnrealProjects_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_4143409737(TEXT("/Script/MegaDungeon"),
+		Z_CompiledInDeferFile_FID_escuela_UnrealProjects_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_escuela_UnrealProjects_Taller2P1_MegaDungeon_Source_MegaDungeon_Public_RomoPlayer_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,4 +1,4 @@
-#include "D:/6toSemestre/4_Taller_VJ_II/P1/Taller2P1/MegaDungeon/Intermediate/Build/Win64/x64/MegaDungeonEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h"
+#include "D:/escuela/UnrealProjects/Taller2P1/MegaDungeon/Intermediate/Build/Win64/x64/MegaDungeonEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED

@@ -6,10 +6,10 @@
 /NAME:"UnrealEditor-MegaDungeon.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
-"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.init.gen.cpp.obj"
-"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\RomoPlayer.gen.cpp.obj"
-"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.cpp.obj"
-"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\RomoPlayer.cpp.obj"
-"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\Default.rc2.res"
-/OUT:"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\UnrealEditor-MegaDungeon.lib"
+"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.init.gen.cpp.obj"
+"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\RomoPlayer.gen.cpp.obj"
+"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.cpp.obj"
+"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\RomoPlayer.cpp.obj"
+"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\Default.rc2.res"
+/OUT:"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\UnrealEditor-MegaDungeon.lib"

@@ -75,5 +75,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Top Down BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=MegaDungeon
-/fo "C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\Default.rc2.res"
+/fo "D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
