@@ -1,3 +1,3 @@
 // PCH for Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h
-#include "D:/escuela/UnrealProjects/Taller2P1/MegaDungeon/Intermediate/Build/Win64/x64/MegaDungeonEditor/Development/CoreUObject/SharedDefinitions.CoreUObject.Cpp20.h"
+#include "C:/Users/janto/OneDrive/Documentos/GitHub/MegaDungeon/MegaDungeon/Intermediate/Build/Win64/x64/MegaDungeonEditor/Development/CoreUObject/SharedDefinitions.CoreUObject.Cpp20.h"
 #include "Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h"

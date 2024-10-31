@@ -1,11 +1,11 @@
-"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Source\MegaDungeon\MegaDungeon.cpp"
-/FI"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\Definitions.MegaDungeon.h"
-/Yu"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.cpp.obj"
-/sourceDependencies "D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.cpp.dep.json"
-@"D:\6toSemestre\4_Taller_VJ_II\P1\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.Shared.rsp"
+"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Source\MegaDungeon\MegaDungeon.cpp"
+/FI"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\Definitions.MegaDungeon.h"
+/Yu"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.cpp.obj"
+/sourceDependencies "D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.cpp.dep.json"
+@"D:\escuela\UnrealProjects\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

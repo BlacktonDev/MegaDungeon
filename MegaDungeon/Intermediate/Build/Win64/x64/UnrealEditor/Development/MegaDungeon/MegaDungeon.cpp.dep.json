@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\escuela\\unrealprojects\\taller2p1\\megadungeon\\source\\megadungeon\\megadungeon.cpp",
+        "Source": "c:\\users\\janto\\onedrive\\documentos\\github\\megadungeon\\megadungeon\\source\\megadungeon\\megadungeon.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\escuela\\unrealprojects\\taller2p1\\megadungeon\\intermediate\\build\\win64\\x64\\megadungeoneditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\janto\\onedrive\\documentos\\github\\megadungeon\\megadungeon\\intermediate\\build\\win64\\x64\\megadungeoneditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderoldest.h.pch",
         "Includes": [
-            "d:\\escuela\\unrealprojects\\taller2p1\\megadungeon\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\megadungeon\\definitions.megadungeon.h",
-            "d:\\escuela\\unrealprojects\\taller2p1\\megadungeon\\source\\megadungeon\\megadungeon.h"
+            "c:\\users\\janto\\onedrive\\documentos\\github\\megadungeon\\megadungeon\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\megadungeon\\definitions.megadungeon.h",
+            "c:\\users\\janto\\onedrive\\documentos\\github\\megadungeon\\megadungeon\\source\\megadungeon\\megadungeon.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
