@@ -1,11 +1,11 @@
-"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Source\MegaDungeon\MegaDungeon.cpp"
-/FI"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\Definitions.MegaDungeon.h"
-/Yu"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.cpp.obj"
-/sourceDependencies "C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.cpp.dep.json"
-@"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.Shared.rsp"
+"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Source\MegaDungeon\MegaDungeon.cpp"
+/FI"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderOldest.h"
+/FI"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\Definitions.MegaDungeon.h"
+/Yu"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderOldest.h"
+/Fp"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Fo"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.cpp.obj"
+/sourceDependencies "C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.cpp.dep.json"
+@"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
@@ -24,6 +24,7 @@
 /D_WINDLL
 /D_DISABLE_EXTENDED_ALIGNED_STORAGE
 /Ob2
+/d2ExtendedWarningInfo
 /Ox
 /Ot
 /GF

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\escuela\\unrealprojects\\taller2p1\\megadungeon\\source\\megadungeon\\megadungeon.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\escuela\\unrealprojects\\taller2p1\\megadungeon\\intermediate\\build\\win64\\x64\\megadungeon\\shipping\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\escuela\\unrealprojects\\taller2p1\\megadungeon\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\megadungeon\\definitions.megadungeon.h",
+            "d:\\escuela\\unrealprojects\\taller2p1\\megadungeon\\source\\megadungeon\\megadungeon.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

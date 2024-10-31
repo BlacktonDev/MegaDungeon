@@ -6,10 +6,10 @@
 /NAME:"UnrealEditor-MegaDungeon.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
-"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.init.gen.cpp.obj"
-"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\RomoPlayer.gen.cpp.obj"
-"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.cpp.obj"
-"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\RomoPlayer.cpp.obj"
-"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\Default.rc2.res"
-/OUT:"C:\Users\black\Documents\UNIAT\6_Semestre\TallerVideojuegosII\Taller2P1\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\UnrealEditor-MegaDungeon.lib"
+"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\MegaDungeonEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.init.gen.cpp.obj"
+"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\RomoPlayer.gen.cpp.obj"
+"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\MegaDungeon.cpp.obj"
+"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\RomoPlayer.cpp.obj"
+"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\Default.rc2.res"
+/OUT:"C:\Users\janto\OneDrive\Documentos\GitHub\MegaDungeon\MegaDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegaDungeon\UnrealEditor-MegaDungeon.lib"
